@@ -6,3 +6,9 @@ Requirements:
 python 3.6
 pytorch 1.7.1
 pymdptoolbox numpy scipy
+
+Train
+python tain.py --config_file config/chessboard_maze_IL.json
+
+Test
+python test.py --config_file config/regular_maze_IL.json --test_final_game 100
