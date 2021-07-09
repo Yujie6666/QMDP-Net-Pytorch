@@ -1,3 +1,8 @@
 According to the original paper, I implemented Qmdp-Net with Pytorch
 Paper: https://arxiv.org/abs/1703.06692
 The authors' implementation in Tensorflow is available online at http://github.com/AdaCompNUS/qmdp-net.
+
+Requirements:
+python 3.6
+pytorch 1.7.1
+pymdptoolbox numpy scipy
