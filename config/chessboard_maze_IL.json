@@ -1,0 +1,13 @@
+{
+    "task_name": "chessboard_maze",
+    "run_name": "default",
+    "imsize": 10,
+    "batch_size": 100,
+    "step_size": 4,
+    "learning_rate": 0.001,
+    "max_training_epoch": 500,
+    "A_size": 5,
+    "O_size": 4,
+    "S_size": 100,
+    "VI_k": 30
+}
